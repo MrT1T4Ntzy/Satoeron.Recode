@@ -1,0 +1,2 @@
+# Satoeron.Recode
+SCRIPT INI BEKAS RECODE
